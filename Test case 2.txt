@@ -1,0 +1,56 @@
+	TEST CASE 2
+
+Title: Filtering "News" by date in google search. 
+
+
+Description
+
+Goal: 
+Checking News filtering in google searches after selecting a specific date.
+
+Test data:
+Link to the page: https://www.google.com/
+
+
+
+Test Steps
+
+
+1. Step								
+Open the google page.
+
+1. Expected result 
+The page has successfully loaded. There is a "Google" logo on the screen. Below it, a search engine window with a loupe on the left and two buttons named "Google Search" and "I'm feeling lucky".
+
+
+
+2. Step
+In the place of the search, type the word "Prowly" then click the "Google Search" button or click "Enter" on the computer keyboard.
+
+2. Expected result
+The page is divided into 3 sections. In the upper bar, we have a search window and filtering options. Below on the left side there are links to the pages, on the right side you can see the profile of the searched company that has been found.
+
+
+
+3. Step
+Click on "News" under the search window.
+
+3. Expected result
+The profile section on the right side of the page disappears and the website only contains links to articles.
+
+
+
+4. Step
+Click "Tools" under the search box, then expand "Recent" and select "Custom range ..."
+
+4. Expected result
+A window appears with a calendar and a place where you can manually enter the dates "From" and "To".
+
+
+
+5. Step
+Select the date January 5, 2022 from the calendar or type the date in the "From" and "To" boxes and click "Go" button click "Enter" on the computer keyboard.
+
+5. Expected result
+Only articles with the previously selected date are shown.
+

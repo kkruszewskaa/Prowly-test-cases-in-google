@@ -1,0 +1,64 @@
+	TEST CASE 3
+
+Title: Checking filtering in the "Shopping" section in google search
+
+
+Description
+
+Goal: 
+Checking filtering by price and seller in the "Shopping" section.
+
+Test data:
+Link to the page: https://www.google.com/
+
+
+
+Test Steps
+
+
+1. Step								
+Open the google page.
+
+1. Expected result 
+The page has successfully loaded. There is a "Google" logo on the screen. Below it, a search engine window with a loupe on the left and two buttons named "Google Search" and "I'm feeling lucky".
+
+
+
+2. Step
+In the place of the search, type the word "Prowly" then click the "Google Search" button or click "Enter" on the computer keyboard.
+
+2. Expected result
+The page is divided into 3 sections. In the upper bar, we have a search window and filtering options. Below on the left side there are links to the pages, on the right side you can see the profile of the searched company that has been found.
+
+
+
+3. Step
+Click on "Shopping" under the search window.
+
+3. Expected result
+The page is divided into two sections on the left with filter fields and the right with products.
+
+
+
+4. Step
+On the left side select the price "up to PLN 30" then click "New items" in condition.
+
+4. Expected result
+On the right side of the website are presented only products with a price not higher than PLN 35.
+
+
+
+5. Step
+Select "Empik.com" in the Seller section (if you do not see this seller, click "more" and then find and click "Empik.com").
+
+5. Expected result
+The page is reloaded and there are less products shown on the page.
+
+
+
+6. Step
+Check that the links under the product prices are the same for each product shown and that they match the seller that was selected.
+
+6. Expected result
+The links are the same for each product and are from the selected seller.
+

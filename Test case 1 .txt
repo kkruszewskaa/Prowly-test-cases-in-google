@@ -1,0 +1,73 @@
+	TEST CASE 1
+
+Title: Sorting reviews in google search.
+
+
+Description
+
+Goal: 
+Checking the sorting of reviews in google maps after entering a specific phrase.
+
+Test data:
+Link to the page: https://www.google.com/
+
+
+
+Test Steps
+
+
+1. Step								
+Open the google page.
+
+1. Expected result 
+The page has successfully loaded. There is a "Google" logo on the screen. Below it, a search engine window with a loupe on the left and two buttons named "Google Search" and "I'm feeling lucky".
+
+
+
+2. Step
+In the place of the search, type the word "Prowly" then click the "Google Search" button or click "Enter" on the computer keyboard.
+
+2. Expected result
+The page is divided into 3 sections. In the upper bar, we have a search window and filtering options. Below on the left side there are links to the pages, on the right side you can see the profile of the searched company that has been found.
+
+
+
+3. Step
+Click on "Maps" under the search window.
+
+3. Expected result
+It goes to the google maps page, where the company profile is on the left and the exact location of the company is shown on the map on the right side of the page.
+
+
+
+4. Step
+In the Profile section, search for the "Reviews" section.
+
+4. Expected result
+There are two buttons in the "Reviews" section on the right.
+
+
+
+5. Step
+Click the "Sort" button and then select the "Highest rating" option.
+
+5. Expected result
+Only the "All reviews" section is shown on the profile page. The reviews are sorted according to the number of stars (the largest number of stars is at the top).
+
+
+
+6. Step
+Click on the button with the  loupe "search review".
+
+6. Expected result
+A search box appears.
+
+
+
+7. Step
+In the search review box, type the word "Prowly" and press Enter.
+
+7. Expected result
+When searching for "Prowly", only reviews that contain that word are shown. The word is in bold in the text of those reviews.
+
+
